@@ -1,0 +1,28 @@
+body{ 
+    font-family:chiller,sans-serif;
+    background-color: black;
+    width:70%;
+    margin:20% auto;
+}
+
+h1 {
+color: crimson;
+    font-size: 50px;
+}
+
+.centerImg{
+    display: block;
+    margin:0 auto;
+    
+}
+p{
+    color: crimson;
+}
+
+.dead{
+font-size: 7em;
+}
+
+.live{
+font-size: 7em;
+}
